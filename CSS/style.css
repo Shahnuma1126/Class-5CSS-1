@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+a{
+    color:#1dbf73;
+    text-decoration: none;
+    font-weight: 11.2px;
+    line-height: 16px;
+}
+h1{
+    color:404145 ;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.author{
+    font-size: 16px;
+    color: 404145;
+    line-height: 28px;
+}
+.part-1{
+    color:404145 ;
+    font-size: 16px;
+    line-height: 28px;
+}
+.part-2{
+    color:404145 ;
+    font-size: 16px;
+    line-height: 28px;
+
+
+}
+.part-3{
+    color:404145 ;
+font-size: 30px;
+    line-height: 28px;
+
+}
+
+
+.part-5{
+    color:404145 ;
+    font-size: 16px;
+    line-height: 28px;
+
+
+}
+.part-6{
+    color:1dbf73 ;
+    font-size: 16px;
+    line-height: 28.8px;
+
+}
+
+
+
+
